@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.result{
+  height: 60px;
+  background-color: darkslategray;
+  width: 100%;
+
+}
+.result h{
+  font-size: 40px;
+}
+
+.main{
+  max-width: 400px;
+  margin: auto;
+}
+
+.buttons{
+  display: block;
+  background-color:coral;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+}
+
+.buttons button{
+  width: 25%;
+  height: 45px;
+  font-size: 30px;
+}
